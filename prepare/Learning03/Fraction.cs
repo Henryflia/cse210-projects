@@ -39,8 +39,8 @@ public class Fraction
     {
         Console.WriteLine($"{_top}/{_bottom}");
     }
-    public float GetDecimalValue()
+    public double GetDecimalValue()
     {
-        return _top/_bottom;
+        return (double)_top/(double)_bottom;
     }
 }
