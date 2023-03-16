@@ -1,0 +1,3 @@
+SimpleGoal,My Goal,Tu goal is a goal,200,True
+EternalGoal,THis Goal,is a big Goal,200,True,1
+CheckListGoal,The big goal,is the greather goal,200,True,2000,1,3
