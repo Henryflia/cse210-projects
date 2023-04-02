@@ -13,7 +13,6 @@ public class Order{
         // foreach(string n in _products){
         //     Console.WriteLine(n);
         // }
-      
     }
     public void TotalPrice(Address p){
         _totalprice = 0;

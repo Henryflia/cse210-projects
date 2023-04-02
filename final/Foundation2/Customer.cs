@@ -1,6 +1,6 @@
 public class Customer{
-    public string _customername = "";
-    public Address _address;
+    private string _customername = "";
+    private Address _address;
 
     public Customer(){
         _customername = "";
